@@ -38,6 +38,4 @@ java Main
 
 - Java 8 o superior.
 
-## Autor
 
-Proyecto de análisis de logs de servidor simulado.
